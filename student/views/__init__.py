@@ -1,0 +1,3 @@
+from .student import AttachmentsModelViewSet
+from .student import AcademicsModelViewSet
+from .student import EnglishLanguageRequirementModelViewSet
